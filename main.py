@@ -2,7 +2,7 @@ import yt_dlp
 import os
 
 # Configuración de archivos
-INPUT_FILE = 'youtube_channel_info.txt'
+INPUT_FILE = 'channel.txt'
 OUTPUT_FILE = 'lista_canales.m3u'
 
 # Forzamos que imprima la ruta para verla en los logs de GitHub
