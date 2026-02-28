@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 LA NACION | Noticias | https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/02/La-Nacion-Mas-en-vivo-Online.png?resize=696%2C392&ssl=1 | LA NACION
-https://www.youtube.com/watch?v=TJe0NbfJshc
+https://www.youtube.com/watch?v=M_gUd2Bp9g0
 
 Canal 26 Cámara en Vivo| Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/480px-Canal_26_logo_%282022%29.svg.png | Canal 26 Cámara en Vivo
 https://www.youtube.com/watch?v=RnTmtVFTSf0
