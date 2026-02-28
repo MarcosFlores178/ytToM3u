@@ -20,6 +20,11 @@ jobs:
       - name: Instalar dependencias
         run: pip install yt-dlp
 
+      - name: Listar archivos para debug
+        run: |
+          pwd
+          ls -R
+
       - name: Ejecutar script
         run: python main.py
 

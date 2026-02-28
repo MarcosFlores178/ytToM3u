@@ -5,6 +5,10 @@ import os
 INPUT_FILE = 'youtube_channel_info.txt'
 OUTPUT_FILE = 'lista_canales.m3u'
 
+# Forzamos que imprima la ruta para verla en los logs de GitHub
+print(f"Buscando entrada en: {os.path.abspath(INPUT_FILE)}")
+print(f"Escribiendo salida en: {os.path.abspath(OUTPUT_FILE)}")
+
 def get_live_link(youtube_url):
     """Extrae el enlace m3u8 real usando yt-dlp."""
     ydl_opts = {
