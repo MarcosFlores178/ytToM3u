@@ -1,0 +1,69 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+LA NACION | Noticias | https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/02/La-Nacion-Mas-en-vivo-Online.png?resize=696%2C392&ssl=1 | LA NACION
+https://www.youtube.com/watch?v=TJe0NbfJshc
+
+Canal 26 Cámara en Vivo| Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/480px-Canal_26_logo_%282022%29.svg.png | Canal 26 Cámara en Vivo
+https://www.youtube.com/watch?v=RnTmtVFTSf0
+
+Todo Noticias | Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png | Todo Noticias
+https://www.youtube.com/watch?v=cb12KmMMDJA
+
+Crónica TV | Noticias | https://www.minutoneuquen.com/u/fotografias/m/2023/5/2/f1280x720-600381_732056_5050.jpg | Crónica TV
+https://www.youtube.com/watch?v=avly0uwZzOE
+
+C5N | Noticias | https://media.c5n.com/p/893858659214aec5fefa52a642c25bbe/adjuntos/326/imagenes/000/163/0000163895/1200x675/smart/placa-logo-c5njpg.jpg | C5N
+https://www.youtube.com/watch?v=Hy4UCfsE6Yk
+
+A24com | Noticias | https://ratingpolitica.com/wp-content/uploads/2021/02/captura-de-pantalla-2021-02-20-a-las-21.05.56.png?w=1274 | A24com
+https://www.youtube.com/watch?v=QGpHLgRnrx4
+
+Disney Junior España | Infantiles | https://logowik.com/content/uploads/images/disney-channel5093.jpg | Disney Junior España
+https://www.youtube.com/watch?v=yWX9LvObWPk
+
+Telefe Noticias | Noticias | https://plataformas.news/online/nota_telefe-noticias-llega-a-eeuu-por-medio-de-pluto-tv.jpg | Telefe Noticias
+https://www.youtube.com/watch?v=7pqXoWI6xXY
+
+Canal 8 San Juan | Nacionales | https://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8-2.png | Canal 8 San Juan
+https://www.youtube.com/watch?v=cAtLkibPtew
+
+eldoce | Nacionales | https://www.ipuntotv.com/IMAGES/ElDoceHDnuevo.png | eldoce
+https://www.youtube.com/watch?v=lFhDFrNP6Uw
+
+Canal de la Ciudad | Nacionales | https://upload.wikimedia.org/wikipedia/commons/7/79/Canalciudadlogo.jpg | Canal de la Ciudad
+https://www.youtube.com/watch?v=Na-13AcZbiY
+
+DW Español | Noticias Internacionales | https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c5dd42c1c17_dwe.jpeg | DW Español
+https://www.youtube.com/watch?v=UBjag610m3s
+
+FRANCE 24 Español | Noticias Internacionales | https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png | FRANCE 24 Español
+https://www.youtube.com/watch?v=bCxM9LD9DWI
+
+Quiero Música TV | Musica | https://4.bp.blogspot.com/-zOBrZt4LUSs/UZ9KRciZQKI/AAAAAAAASqw/9D_omSY6_gs/s320/quiero-musica-en-mi-idioma-tv.jpg | Quiero Música TV
+https://www.youtube.com/watch?v=BZ8Uqxl3uec
+
+Nickelodeon en Español | Infantiles | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1b-FArY7moIywBKNzaC-vVn03t9BfR5sd6-udq_cf9fx_aajGFmxrSCCcRbGBuS4VW61r5TV0IpiRMwU1yoaZIFlroPmvTTbbC_IQSJKVu8Z5gQB-3KndhshD6popzWwXoagyBUSqCq79VUgeJH-szheitLOcq_zn98c74XiGOFjLu86-HTbL5121/s1604/NickSplat2023.png | Nickelodeon en Español
+https://www.youtube.com/watch?v=g3_gsfrkNlo
+
+Nick Jr. en Español | Infantiles | https://www.newslinereport.com/online/nota_nick-jr-latinoamrica-con-nuevo-look-e-identidad.jpg | Nick Jr. en Español
+https://www.youtube.com/watch?v=A5a-g_mVGqo
+
+euronews (en español) | Noticias Internacionales | https://www.5900.tv/wp-content/uploads/2019/05/euronews.jpg | euronews (en español)
+https://www.youtube.com/watch?v=tB-ST6lIsO0
+
+Romance  Channel | Peliculas | https://image.roku.com/developer_channels/prod/e6b0ced8f3e2626d462c0785a30fdaf29311d4db738c8375787dc03d7b499ed4.png | Romance  Channel
+https://www.youtube.com/watch?v=1r3KJkGmjpA
+
+RTVE Noticias | Noticias Internacionales | https://brandemia.org/contenido/subidas/2023/02/rtve-logo.png | RTVE Noticias
+https://www.youtube.com/watch?v=wMbvu6fRPmY
+
+24 Horas - TVN Chile | Noticias Internacionales | https://www.tvn.cl/incoming/24horas_cljpg-2555473/ALTERNATES/w1024h768/24HORAS_CL.jpg | 24 Horas - TVN Chile
+https://www.youtube.com/watch?v=iR_COuE57II
+
+BabyTV Español | Infantiles | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDxaZWlAzuoW42FJJSf4uQhQtZeYy3HEO1qYRsb83Mo4LQiH1MaGYZ_XNFUNaIqr9EehRiVqdwqJgeyvfuC9J97KT8Bprvk8RfOI86VeJrkcmVN59tA5iR7ANL6kGYX7hlUplW9fO95EImUGstl2fNnBxlYK-IgyCffYKj9XaOdLqrayrJOrhUHgOcK-A/s800/baby.tv.jpg | BabyTV Español
+https://www.youtube.com/watch?v=RLEJTKeA6Zs
+
+Simón Super Conejo [Español Latino] | Infantiles | https://assets.saposyprincesas.com/2019/08/simon-serie.jpg | Simón Super Conejo [Español Latino]
+https://www.youtube.com/watch?v=7b7IHjxWiCg
+
